@@ -80,13 +80,13 @@ fullstacktask
 Deploy using:
 
 - Vercel
-- Live link :
+- Live link : https://popaya-software-dev-assignment.vercel.app
 ## Backend
 
 Deploy using:
 
 - Render
-- Live link :
+- Live link :  https://popaya-softwaredev-assignment-1.onrender.com
 
 # Author
 
