@@ -1,67 +1,95 @@
-# Trainee Developer Assignment
+# Full Stack Notes Application
 
-## Overview
+A complete Full Stack Notes Application built as part of a Technical Assessment.
 
-This assignment has 3 parts:
+This project includes:
 
-1. Core Task (Mandatory)
-2. Notes Backend (Optional)
-3. Notes Frontend (Optional)
-
-You must complete the Core Task.
-You can choose Backend, Frontend, or both.
-
----
-
-## 1. Core Task (Mandatory)
-
-Fix bugs in the provided code and make sure the project runs correctly.
+- Core Debugging Task
+- Backend Notes CRUD API
+- Frontend Notes UI
+- MongoDB Database Integration
+- Search Functionality
+- Toast Notifications
+- Responsive UI
 
 ---
 
-## 2. Backend Task (Optional)
+# Tech Stack
 
-Build a Notes API with following endpoints:
+## Frontend
+- React.js
+- Axios
+- React Hot Toast
+- Tailwind CSS
+- Vite
 
-- POST /notes
-- GET /notes
-- GET /notes/:id
-- PUT /notes/:id
-- DELETE /notes/:id
-
----
-
-## 3. Frontend Task (Optional)
-
-Build a Notes UI:
-
-- Show list of notes
-- Create note
-- Edit note
-- Delete note
+## Backend
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- dotenv
+- cors
 
 ---
 
-## Rules
+# Project Structure
 
-- You can use Google / ChatGPT
-- Do not copy full project from internet
-- Keep code simple and readable
+```txt
+fullstacktask
+│
+├── backend
+│   └── notes-api
+│
+├── frontend
+│   └── notes-ui
+│
+├── core
+│   └── buggy-code
+│
+└── README.md
+```
+# Features
+## Core Task
+- Fixed all bugs from the provided debugging assignment.
+- Improved validation and error handling.
 
----
+## Backend Features
+- Create Note
+- Get All Notes
+- Get Single Note
+- Update Note
+- Delete Note
+- MongoDB Integration
+- REST API Structure
+- Error Handling
+- Validation
 
-## Submission
+## Frontend Features
+- Add Notes
+- Update Notes
+- Delete Notes
+- Search Notes
+- Toast Notifications
+- Responsive UI
+- API Integration
 
-- Push code to GitHub
-- Share repository link
+# Deployment
+## Frontend
 
----
+Deploy using:
 
-## Evaluation Criteria
+- Vercel
+## Backend
 
-We evaluate:
-- Problem solving
-- Code quality
-- Understanding of basics
-- Effort and learning ability
+Deploy using:
 
+- Render
+
+# Author
+
+## Rahul Kumar
+
+LinkedIn https://www.linkedin.com/in/rahul-kumar-3990b618b
+
+GitHub https://github.com/ahulkumar1234
