@@ -80,11 +80,13 @@ fullstacktask
 Deploy using:
 
 - Vercel
+- Live link :
 ## Backend
 
 Deploy using:
 
 - Render
+- Live link :
 
 # Author
 
